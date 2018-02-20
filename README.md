@@ -10,6 +10,7 @@
 ![enter image description here](https://github.com/stovv/-Fill-You-Brains/blob/master/imgs/face.png?raw=true)
 - Думаете о чем-нибудь сложном
 - И готово!
+
 ![enter image description here](https://github.com/stovv/-Fill-You-Brains/blob/master/imgs/1.png?raw=true)
 # Техническая составляющая
 В проекте использовались следующие компоненты:
