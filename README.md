@@ -2,7 +2,8 @@
 Напряги мозги, чтобы налить себе стаканчик лимонада ;)
 
 **Как это работает?**
- - Вы надеваете нейроинтерфейс
+
+- Вы надеваете нейроинтерфейс
 ![Вы надеваете нейроинтерфейс](https://github.com/stovv/-Fill-You-Brains/blob/master/imgs/neiro.png?raw=true)
 - Видите свое статус того сколько осталось думать чтоб получить лимонад
 ![enter image description here](https://github.com/stovv/-Fill-You-Brains/blob/master/imgs/face.png?raw=true)
